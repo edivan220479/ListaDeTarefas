@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
     borderColor: '#ccc',
     padding: 10,
     marginBottom: 10,
-    borderRadius: 5,
+    borderRadius: 6,
   },
   taskItem: {
     flexDirection: 'row',
